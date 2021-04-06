@@ -8,3 +8,4 @@
  - WhatFonts.
  
 I created a new layout used this stack: GULP-4, PUG(HTML), JS(used plugins), SCSS(CSS).
+https://github.com/Taras-Slovak/my-stack
